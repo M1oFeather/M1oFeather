@@ -14,7 +14,7 @@
     </td>
     <td width="42%" align="center" style="border: none;">
       <!-- 仅需替换此处头像链接：推荐机能风插画、科技感头像、澪羽人设相关视觉 -->
-      <img src="https://cdn.jsdelivr.net/gh/M1oFeather/M1oFeather@main/avatar.png" width="200" style="border: 2px solid #00ccff; border-radius: 6px; box-shadow: 0 0 12px #00ccff;"/>
+      <img src="https://avatars.githubusercontent.com/u/67865300?v=4" width="200" style="border: 2px solid #00ccff; border-radius: 6px; box-shadow: 0 0 12px #00ccff;"/>
     </td>
   </tr>
 </table>
@@ -23,9 +23,9 @@
 
 ### 【主体基础档案】
 > 系统已完成核心信息录入，可快速了解主体属性
-- 🔹 核心方向：[你的核心开发/创作方向，例：全栈开发、游戏Mod开发、开源项目维护]
-- 🔹 正在执行：[你当前正在推进的核心项目/工作，例：自研Python Bot框架、Minecraft自定义玩法开发]
-- 🔹 持续迭代：[你正在学习/深耕的技术/技能，例：云原生技术、Rust开发、前端交互设计]
+- 🔹 核心方向：全栈开发、游戏Mod开发、Bot开发
+- 🔹 正在执行：自研Python Bot框架、Minecraft游戏Mod开发
+- 🔹 持续迭代：大语言模型
 - 🔹 响应范围：技术交流、项目协作、开源共建、同好话题沟通
 - 🔹 底层逻辑：代码构建世界，数据记录一切
 
@@ -73,18 +73,18 @@
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M1oFeather&repo=你的仓库名1&bg_color=0a0e17&title_color=00ccff&text_color=e6f7ff&icon_color=00ccff&hide_border=true" alt="项目1卡片"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M1oFeather&repo=AcgDraw&bg_color=0a0e17&title_color=00ccff&text_color=e6f7ff&icon_color=00ccff&hide_border=true" alt="项目1卡片"/>
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M1oFeather&repo=你的仓库名2&bg_color=0a0e17&title_color=00ccff&text_color=e6f7ff&icon_color=00ccff&hide_border=true" alt="项目2卡片"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M1oFeather&repo=Ptilopsis&bg_color=0a0e17&title_color=00ccff&text_color=e6f7ff&icon_color=00ccff&hide_border=true" alt="项目2卡片"/>
       </td>
     </tr>
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M1oFeather&repo=你的仓库名3&bg_color=0a0e17&title_color=00ccff&text_color=e6f7ff&icon_color=00ccff&hide_border=true" alt="项目3卡片"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M1oFeather&repo=PtilopsisPlugin&bg_color=0a0e17&title_color=00ccff&text_color=e6f7ff&icon_color=00ccff&hide_border=true" alt="项目3卡片"/>
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M1oFeather&repo=你的仓库名4&bg_color=0a0e17&title_color=00ccff&text_color=e6f7ff&icon_color=00ccff&hide_border=true" alt="项目4卡片"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M1oFeather&repo=BIDEA&bg_color=0a0e17&title_color=00ccff&text_color=e6f7ff&icon_color=00ccff&hide_border=true" alt="项目4卡片"/>
       </td>
     </tr>
   </table>
@@ -95,13 +95,13 @@
 ### 【通信接入端口】
 <div align="center">
   <!-- 替换为你的实际联系方式，可按需增删 -->
-  <a href="mailto:你的邮箱地址">
+  <a href="mailto:baiguguos@gmail.com">
     <img src="https://img.shields.io/badge/-邮箱-0a0e17?style=for-the-badge&logo=gmail&logoColor=00ccff&labelColor=0a0e17&color=00ccff" alt="邮箱"/>
   </a>
-  <a href="你的博客链接">
+  <a href="https://blog.baios.net">
     <img src="https://img.shields.io/badge/-个人博客-0a0e17?style=for-the-badge&logo=hexo&logoColor=00ccff&labelColor=0a0e17&color=00ccff" alt="个人博客"/>
   </a>
-  <a href="你的B站/推特/其他社交链接">
+  <a href="https://space.bilibili.com/319953349">
     <img src="https://img.shields.io/badge/-社交平台-0a0e17?style=for-the-badge&logo=bilibili&logoColor=00ccff&labelColor=0a0e17&color=00ccff" alt="社交平台"/>
   </a>
 </div>
