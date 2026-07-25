@@ -54,16 +54,7 @@
 
 ---
 
-### `04 // TELEMETRY`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M1oFeather&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1&icon_color=a855f7&rank_icon=github" alt="M1oFeather GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1oFeather&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=cbd5e1" alt="M1oFeather top languages" />
-</div>
-
----
-
-### `05 // NETWORK_PORTS`
+### `04 // NETWORK_PORTS`
 
 <div align="center">
   <a href="https://blog.baios.net"><img src="https://img.shields.io/badge/BLOG-baios.net-22d3ee?style=for-the-badge&logo=hexo&logoColor=white&labelColor=0d1117" alt="Blog" /></a>
